@@ -1,0 +1,1 @@
+pyinstaller --onefile data_reader.py
